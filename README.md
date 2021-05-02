@@ -1,0 +1,1 @@
+# P510-FE-JS-loops-try-catch-conditions-ternary-operators
